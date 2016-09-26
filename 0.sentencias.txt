@@ -1,0 +1,9 @@
+-- Ejemplo: https://github.com/yogasaikrishna/todo-app/blob/master/models/todo.js
+-- Iniciar el MySQL
+sudo service mysql start
+-- Para actualizar librerias
+npm install
+-- Ejecutar la aplicacion
+node server.js
+-- Ejecutar en c9
+https://desarrollo-edgardma.c9users.io:8081/seguridad/users/emarquez

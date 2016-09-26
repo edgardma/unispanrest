@@ -1,0 +1,10 @@
+{
+    "name": "unispanrest",
+    "description": "UNISPAN Rest",
+    "version": "1.0.0",
+    "private": true,
+    "dependencies": {
+        "express": "4.x",
+        "mysql": "^2.9.0"
+    }
+}
